@@ -1,3 +1,8 @@
+// Nama: Alfin Oktavian
+// Nim: 240401010282
+// Kelas: IF102
+// Mata Kuliah: Algoritma dan Pemrograman
+
 #include <iostream>
 #include <string>
 #include <limits>
